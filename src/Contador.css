@@ -1,0 +1,12 @@
+.Contador {
+    margin: 3%;
+    width: 25%;
+}
+
+button {
+    box-sizing: border-box;
+    margin: auto;
+    font-size: 2rem;
+    width: 100%;
+    height: 5rem;
+}
